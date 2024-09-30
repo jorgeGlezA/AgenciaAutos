@@ -8,9 +8,11 @@ public class Principal {
 		Electrodomesticos electro2 = new Electrodomesticos("1234", "Vatidora", 400);
 		Electrodomesticos electro3 = new Electrodomesticos("1234", "Refrigerado", 3400);
 
+		// Se realizan nuevos cambios agregando una lista
+		Electrodomesticos electro4 = new Electrodomesticos("1234", "Refrigerado", 3400);
 		// Instacia de clase --
 		LogicaMetodos imp = new LogicaMetodos();
-
+		
 		// Utilizar los metodos que hemos desarrollado
 
 		// Guardar
