@@ -14,6 +14,9 @@ public class Principal {
 		//Se agrega esto para rectificar la nueva rama
 		Electrodomesticos electro5 = new Electrodomesticos("1234", "Refrigerado", 3400);
 		
+		//Se agrega segundo intento
+		Electrodomesticos electro6 = new Electrodomesticos("1234", "Refrigerado", 3400);
+		
 		// Instacia de clase --
 		LogicaMetodos imp = new LogicaMetodos();
 		
